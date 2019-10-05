@@ -1,0 +1,103 @@
+{
+  "site-design": "minimal",
+  "name": {
+    "full": "Chaitenya Gupta",
+    "first": "Chaitenya",
+    "last": "Gupta"
+  },
+  "email" : "gupta@ucdavis.edu",
+  "links": {
+    "github": "https://github.com/Chaitenyag",
+    "linkedin": "https://www.linkedin.com/in/chaitenyagupta/"
+  },
+  "short-des": "CS Major @ UC Davis 2022, Published Researcher and Co-Author, DSIML",
+  "about-me": "I am a sophomore pursuing Computer Science at University of California, Davis. I'm currently a full time student, also working on entreprenurial ideas and my book Data Structures in Modern Languages. Apart from this, I have interned for various companies in the past working in the fields of software, networking, engineering.",
+  "keywords": ["Chaitenya Gupta", "UCD", "UC Davis", "CS Major", "GBM", "Al Habtoor Group", "Project Seizure", "Project Gesture", "Project Bitrac"],
+  "cv": {
+    "Work-Experience": [
+      {
+        "title": "IT Intern @ Al Habtoor Group",
+        "start-date": "2017",
+        "end-date": "2017",
+        "des": "Worked in cyber security and assisted customers with troubleshooting computer issues"
+      },
+      {
+        "title": "IT Intern @ Mahindra & Mahindra",
+        "start-date": "2016",
+        "end-date": "2016",
+        "des": " Offered relevant information on the products and services of the company, and communicated with the IT team to discuss process and performance"
+      },
+      {
+        "title": "Engineering Intern @ Movenpick Hotel & Apartments",
+        "start-date": "2016",
+        "end-date": "2016",
+        "des": "Analyzed the Audio Video (AV) connections and departmental documents"
+      }
+    ],
+    "Research-Experience": [
+      {
+        "title": "Project Bitrac",
+        "start-date": "2017",
+        "end-date": "2017",
+        "des": "Serves as an intermediate between a paralytic patient and his surroundings."
+      }
+    ],
+    "Project-Experience": [
+      {
+        "title": "Project Gesture",
+        "start-date": "2017",
+        "end-date": "2018",
+        "des": "The Project uses finger gestures and real-time object detection to allow the user to interact with his surroundings. http://bit.ly/pgcg - Project Video"
+      },
+      {
+        "title": "Project Seizure",
+        "start-date": "2017",
+        "end-date": "2017",
+        "des": "It is an economic approach towards notifying the occurrence of seizures in a patient. Team leader (Made in a group of three). Used python for the back-end and also used Twilio's API. For the front-end we used PHP, HTML, CSS and Google Maps API"
+      },
+      {
+        "title": "Data Stuctures in Modern Languages",
+        "start-date": "2019",
+        "end-date": "",
+        "des": "Implementing common data structures in safe, modern Rust and Go and writing a book about the same."
+      }
+    ],
+    "Skills": [
+      {
+        "title": "Programming Languages",
+        "list": ["C", "C++", "Python", "SQL"]
+      },
+      {
+        "title": "OS",
+        "list": ["Unix", "MacOS", "Linux"]
+      },
+      {
+        "title": "Tools and Frameworks",
+        "list": ["ViM", "LaTeX", "Git", "Google Test"]
+      },
+      {
+        "title": "Other Experience",
+        "list": ["Member of Control Team in ONELOOP (UC DAVIS' HYPERLOOP TEAM)"]
+      }
+    ],
+    "Education": [
+      {
+        "title": "University of California, Davis",
+        "start-date": "2018",
+        "end-date": "",
+        "des": "BS, Computer Science"
+      }
+    ],
+    "Awards-and-Other-Achievements": [
+      {
+        "title": "New York University High School Forensics Cyber Security Awareness Weekr",
+        "list": ["1st Place"]
+      },
+      {
+        "title": "International Journal of Engineering and Management Research (IJEMR)",
+        "list": ["Published Research Paper"]
+      }
+    ],
+    "Languages": ["English", "Hindi"]
+  }
+}
